@@ -1,0 +1,2 @@
+[16-Nov-2017 14:25:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/ubuntu/workspace/api/app/Http/Controllers/DenunciasController.php on line 28
+[16-Nov-2017 14:26:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Storage' not found in /home/ubuntu/workspace/api/app/Http/Controllers/DenunciasController.php on line 38
